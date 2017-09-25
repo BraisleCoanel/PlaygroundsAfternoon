@@ -1,12 +1,20 @@
-//: Playground - noun: a place where people can play
-
 import UIKit
 
 var answer :String
 
 var observe = "thot!"
 
-let xd = readLine()
+var idk = "Prolly nothin"
 
-print("What do you think I cant do")
+let repo = readLine()
 
+print("What do you think I can do")
+
+//if repo(idk)
+//{
+//    print("Observe " + observe)
+//}
+//else
+//{
+//    print("uhh")
+//}
