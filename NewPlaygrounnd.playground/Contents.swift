@@ -2,6 +2,11 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var answer :String
 
+var observe = "thot!"
+
+let xd = readLine()
+
+print("What do you think I cant do")
 
