@@ -10,7 +10,7 @@ public class SimpleClass
     
     public init()
     {
-        name = "My name  ...."
+        name = "My name is ...."
     }
     
     public func getName() -> Void
